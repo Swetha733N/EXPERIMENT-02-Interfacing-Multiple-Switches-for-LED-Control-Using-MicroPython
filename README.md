@@ -115,4 +115,3 @@ FIGURE-04: LED STATUS BASED ON SWITCH INPUTS
 
 The multiple switches connected to the Raspberry Pi Pico successfully controlled the LEDs based on their states, confirming the proper interfacing of digital inputs and outputs.
 
-](https://github.com/keerthanajayasri/EXPERIMENT-01-INTERFACTING-DIGITAL-OUTPUT-WITH-EDGE-DEVICE---RASPBERRYPI-PICO-.git)
